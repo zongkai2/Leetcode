@@ -1,3 +1,8 @@
-﻿  pro1.cpp
+﻿  stdafx.cpp
+  pro2.cpp
+e:\work\app\leetcode\leetcode\leetcode\pro2.cpp(19): warning C4101: “temp”: 未引用的局部变量
+  pro1.cpp
+  LeetCode.cpp
+  正在生成代码...
   LeetCode.vcxproj -> E:\WORK\APP\leetcode\LeetCode\Debug\LeetCode.exe
   LeetCode.vcxproj -> E:\WORK\APP\leetcode\LeetCode\Debug\LeetCode.pdb (Full PDB)
