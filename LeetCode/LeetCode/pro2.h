@@ -18,4 +18,8 @@ public:
 	bool is_HaveSameNum(string s,int start,int end);
 	double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2);
 	vector<int>& sortNum(vector<int>& nums);
+	string longestPalindrome(string s);
+	bool is_palindrome(string s,int head,int end);
+	//num 6
+	string convert(string s, int numRows);
 };
